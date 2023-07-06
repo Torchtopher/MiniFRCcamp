@@ -1,0 +1,2 @@
+# MiniFRCcamp
+go cook
